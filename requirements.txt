@@ -1,0 +1,8 @@
+pytest
+playwright
+pytest-playwright
+pytest-html
+requests
+python-dotenv
+
+# Run pip install -r requirements.txt to install these locally.
