@@ -1,5 +1,7 @@
 # WorkFlow Pro - QA Automation Framework
 
+# By Rohit Kandelkar
+
 ## 🚀 Overview
 This repository contains the automated test suite for WorkFlow Pro, a multi-tenant B2B SaaS platform. 
 The framework is designed using **Python**, **Pytest**, and **Playwright**, with **BrowserStack** integration for mobile testing.
