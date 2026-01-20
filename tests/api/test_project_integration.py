@@ -10,7 +10,7 @@ def test_project_creation_and_tenant_isolation(page):
     
     # Create project for Company1
     response = api.create_project("Company1", project_name, "Integration Test Project")
-    assert response.status_code == 201 [cite: 60]
+    assert response.status_code == 201 
     project_id = response.json().get("id")
 
     # 2. VERIFY: Web UI display for Company1
